@@ -29,7 +29,7 @@ if not BOT_TOKEN:
     sys.exit(1)
 
 REQUIRED_CHANNELS = ["@likebot1sandbot"]
-GROUP_JOIN_LINK = "https://t.me/sandlike555
+GROUP_JOIN_LINK = "http://t.me/likebot1sandbot
 OWNER_ID = 8261853385
 OWNER_USERNAME = "@sand2187"
 
