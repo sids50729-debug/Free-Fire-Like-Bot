@@ -28,11 +28,10 @@ if not BOT_TOKEN:
     logger.error("❌ BOT_TOKEN not found! Please set your bot token in environment variables.")
     sys.exit(1)
 
-REQUIRED_CHANNELS = ["@likebot1sandbot"]
-GROUP_JOIN_LINK = "http://t.me/likebot1sandbot
+REQUIRED_CHANNELS = ["@sandlike1212"]
+GROUP_JOIN_LINK = "https://t.me/likebotgrup"
 OWNER_ID = 8261853385
 OWNER_USERNAME = "@sand2187"
-
 bot = telebot.TeleBot(BOT_TOKEN)
 like_tracker = {}   # in-memory cache
 
